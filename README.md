@@ -1,8 +1,7 @@
-# Education
-### Academy of Learning College
-- University of Toronto Data Analytics
+### Education
+- University of Toronto: Data Analytics Bootcamp
 - Thomas Edison State University Unofficial Transcript
-- PC Support Specialist Diploma
+- Academy of Learning: PC Support Specialist Diploma
 
 ### ISO Quality Certifications
 - ISO 9001:2015 Internal Quality Systems Auditor
