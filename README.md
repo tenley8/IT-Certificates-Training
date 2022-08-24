@@ -7,7 +7,7 @@
 - ISO 9001:2015 Internal Quality Systems Auditor
 - ISO 19011:2018 Management Systems Auditor
 
-### IT Certifications
+### IT Certifications & Training
 - Microsoft Certified Systems Engineer (MCSE)
 - Tensorflow Developer Certification
 - Power BI Analyzing & Visualizing Data
