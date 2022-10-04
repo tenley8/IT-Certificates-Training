@@ -9,6 +9,6 @@
 
 ### IT Certifications & Training
 - Microsoft Certified Systems Engineer (MCSE)
-- Tensorflow Developer Certification
+- IBM Cybersecurity Analyst Professional Certificate
 - Power BI Analyzing & Visualizing Data
-- Databricks Apache SQL
+- (ISC)² Introduction to NIST Cybersecurity Framework
